@@ -1,0 +1,14 @@
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.AssemblyInfoInputs.cache
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.AssemblyInfo.cs
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.csproj.CoreCompileInputs.cache
+C:\Users\anapa\OneDrive\Desktop\ev3bd\bin\Debug\net8.0\ev3bd.exe
+C:\Users\anapa\OneDrive\Desktop\ev3bd\bin\Debug\net8.0\ev3bd.deps.json
+C:\Users\anapa\OneDrive\Desktop\ev3bd\bin\Debug\net8.0\ev3bd.runtimeconfig.json
+C:\Users\anapa\OneDrive\Desktop\ev3bd\bin\Debug\net8.0\ev3bd.dll
+C:\Users\anapa\OneDrive\Desktop\ev3bd\bin\Debug\net8.0\ev3bd.pdb
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.dll
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\refint\ev3bd.dll
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.pdb
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ev3bd.genruntimeconfig.cache
+C:\Users\anapa\OneDrive\Desktop\ev3bd\obj\Debug\net8.0\ref\ev3bd.dll
